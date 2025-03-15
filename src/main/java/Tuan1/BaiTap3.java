@@ -1,4 +1,4 @@
-package org.example;
+package Tuan1;
 /* Viet chuong trinh in ra man hinh bang cuu chuong tu 1 toi 10 */
 public class BaiTap3 {
     public static void main(String[] args) {

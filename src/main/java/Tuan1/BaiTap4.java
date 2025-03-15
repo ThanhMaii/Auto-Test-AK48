@@ -1,4 +1,4 @@
-package org.example;
+package Tuan1;
 import java.util.Scanner;
 /* Viet mot chuong trinh tim so lon nhat tu 3 so nguyen a b c */
 public class BaiTap4 {

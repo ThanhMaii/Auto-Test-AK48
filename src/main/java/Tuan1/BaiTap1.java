@@ -1,4 +1,4 @@
-package org.example;
+package Tuan1;
 
 import java.util.Scanner;
 /* viet 1 method kiem tra nhap vao 1 so nguyen la nam, kieem tra nam do la nam nhuan hay khong ?*/

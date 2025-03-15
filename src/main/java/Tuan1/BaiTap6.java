@@ -1,4 +1,4 @@
-package org.example;
+package Tuan1;
 /* given an array = [34, 1, 23, 4, 3, 12, 45, 33, 6, 22] * find max item */
 public class BaiTap6 {
     public static void main(String[] args) {
